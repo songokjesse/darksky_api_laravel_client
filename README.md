@@ -33,6 +33,7 @@ php artisan key:generate
 
 # Settings
 Get Dark Sky API KEY from [Dark Sky API](https://darksky.net/dev/docs) 
+
 Get Google Geocoding API Key for getting location from [GEOCODING API](https://developers.google.com/maps/documentation/geocoding/start#get-a-key)
 Add your api keys to .env
 ```dotenv
